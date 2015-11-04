@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.center {
+  text-align: center;
+}
